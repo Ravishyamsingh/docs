@@ -32,4 +32,7 @@ console.log(10 % 5);
 let str1="5";
 console.log(str1+3);
 
+console.log("2">5);
+
+
 //https://tc39.es/ecma262/2023/multipage/#sec-intro
