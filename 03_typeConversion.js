@@ -22,7 +22,14 @@ console.log(string+num2);
 
 console.log("4"+3);
 
+console.log(10 + 5);
+console.log(10 - 5);
+console.log(10 * 5);
+console.log(10 / 5);
+console.log(10 % 5);
 
 
+let str1="5";
+console.log(str1+3);
 
-
+//https://tc39.es/ecma262/2023/multipage/#sec-intro
